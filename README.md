@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">I am 22 years old and currently pursuing my MSc in Information Technology at KTH, Royal Institute of Technology.</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/276435754920574977/1033403037764567090/Screenshot_2022-10-22_at_16.17.24.png)
+<p align="center">The Mandelbrot Set above was generated using this repository: <a href="https://github.com/Samkth123/Functional-Programming-/blob/main/MANDELBRO.png">Mandelbrot Set</a></p>
 
 - 🔭 I’m currently working on [the PAI parking app](link soon to be released)
 
